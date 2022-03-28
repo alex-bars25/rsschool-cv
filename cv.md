@@ -1,19 +1,19 @@
 # Alexey Vaitehovski
 
 ## Contacts
-__Location:__ Minsk, Belarus
-__Phone:__ +375 (25) 501-68-59
-__Email:__ alex_bars25@gmail.com
-__Github:__ [alex-bars25](https://github.com/alex-bars25) 
+* __Location:__ Minsk, Belarus
+* __Phone:__ +375 (25) 501-68-59
+* __Email:__ alex_bars25@gmail.com
+* __Github:__ [alex-bars25](https://github.com/alex-bars25) 
 
 ## About myself 
 Love to learn and gain new skills. Can work really hard. Want to become a professional developer.
 
 ## Skills
-HTML
-CSS
-JavaScript
-Git/Github
+* HTML
+* CSS
+* JavaScript
+* Git/Github
 
 ## Code example
 ```
@@ -31,7 +31,7 @@ function unluckyDays(year){
 ```
 
 ## Experience 
-_Will get a lot soon..._
+_No expirience yet..._
 
 ## Education
 + __College and university__
